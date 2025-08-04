@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Full-Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="full" alt="coding-gif" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/rasel-mahmud-1ab0b5333/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
   </a>
-  <a href="https://www.facebook.com/" target="_blank">
+  <a href="https://www.facebook.com/" >
     <img src="https://skillicons.dev/icons?i=facebook" alt="facebook" />
   </a>
   <a href="https://www.youtube.com/@raselmahmud7086" target="_blank">
@@ -82,7 +82,7 @@
 ### 🔥 Contribution Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rm404085&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rm404085&theme=tokyo-night" />
 </p>
 
 ---
@@ -93,7 +93,7 @@
 
 ---
 
-### 🙌 Thanks for visiting my profile!
+## 🙌 Thanks for visiting my profile!
 
 
 
