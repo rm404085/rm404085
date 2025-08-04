@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Full-Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="300" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.licdn.com/dms/image/v2/D4D16AQFudQUBX9vIHw/profile-displaybackgroundimage-shrink_350_1400/B4DZXYmYpfG4Ag-/0/1743095697165?e=1756944000&v=beta&t=UQGClbnm90-FnUbUBVJL3dEZnOtwkE60ZHheN6AJWsU)" alt="coding" width="300" />
 </p>
 
 ---
