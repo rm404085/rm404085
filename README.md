@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Full-Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAGyQlU2onk/5Zp7_7q6Uwx73y9uk-HLdw/view?utm_content=DAGyQlU2onk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hddcdbd62c1" width="full" alt="coding-gif" />
+  <img src="https://camo.githubusercontent.com/803226302ac9ed44d0caeadcaee81c6797400dc7b6da544bb78c80c59ebdfca3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="full" alt="coding-gif" />
 </p>
 
 <p align="center">
