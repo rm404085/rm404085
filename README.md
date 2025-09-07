@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Full-Stack Web Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.linkedin.com/in/rasel-mahmud-1ab0b5333/overlay/background-image/)" width="300" alt="coding-gif" />
 </p>
 
 <p align="center">
